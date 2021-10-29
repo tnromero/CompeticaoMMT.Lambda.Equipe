@@ -1,0 +1,1 @@
+# CompeticaoMMT.Lambda.Equipe
